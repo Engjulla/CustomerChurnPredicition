@@ -1,6 +1,6 @@
-# CustomerChurnPredicition
+# Customer Churn Predicition for Hote C
 
-C Hotel Cancellation Prediction Model
+
 In this repository, you will find the predictive model I developed to address a pressing challenge in the C Hotel chain based in Portugal: high cancellation rates, which, in some establishments, reached up to 42%. This data science project was initiated to accurately forecast net demand, manage cancellations more effectively, and aim to decrease these rates to a more sustainable 20%.
 
 The model I've built harnesses various variables like Average Daily Rate (ADR), booking channels, customer types, and deposit types, employing extensive historical booking data to identify patterns and make accurate predictions.
